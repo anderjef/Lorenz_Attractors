@@ -36,12 +36,12 @@ Current version: 0.1.0 <br>
 Click and drag the display to rotate the camera. Scroll to zoom.
 
 ### Executables
-- [32-bit Linux](https://github.com/anderjef/Lorenz_Attractors/application.linux32/Lorenz_Attractors)
-- [64-bit Linux](https://github.com/anderjef/Lorenz_Attractors/application.linux64/Lorenz_Attractors)
-- [ARM 64-bit Linux](https://github.com/anderjef/Lorenz_Attractors/application.linux-arm64/Lorenz_Attractors)
-- [Hard Float ARMv6 Linux](https://github.com/anderjef/Lorenz_Attractors/application.linux-armv6hf/Lorenz_Attractors)
-- [32-bit Windows](https://github.com/anderjef/Lorenz_Attractors/application.windows32/Lorenz_Attractors.exe)
-- [64-bit Windows](https://github.com/anderjef/Lorenz_Attractors/application.windows64/Lorenz_Attractors.exe)
+- [32-bit Linux](https://github.com/anderjef/Lorenz_Attractors/tree/main/application.linux32/Lorenz_Attractors)
+- [64-bit Linux](https://github.com/anderjef/Lorenz_Attractors/tree/main/application.linux64/Lorenz_Attractors)
+- [ARM 64-bit Linux](https://github.com/anderjef/Lorenz_Attractors/tree/main/application.linux-arm64/Lorenz_Attractors)
+- [Hard Float ARMv6 Linux](https://github.com/anderjef/Lorenz_Attractors/tree/main/application.linux-armv6hf/Lorenz_Attractors)
+- [32-bit Windows](https://github.com/anderjef/Lorenz_Attractors/tree/main/application.windows32/Lorenz_Attractors.exe)
+- [64-bit Windows](https://github.com/anderjef/Lorenz_Attractors/tree/main/application.windows64/Lorenz_Attractors.exe)
 
 ## Contributions
 - Jeffrey Andersen - developer
