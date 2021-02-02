@@ -10,8 +10,8 @@ Current version: 0.1.0 <br>
 
 ### Display
 #### Examples
-<img src="Picture1.png" alt="Example 1 Picture" height="400"/>
-<img src="Picture2.png" alt="Example 2 Picture" height="400"/>
+<img src="Picture1.png" alt="Example 1 Picture 1" height="400"/>
+<img src="Picture2.png" alt="Example 1 Picture 2" height="400"/>
 
 ### Folder structure
 | Tree with Root Having Local Path | Generation Method | Description |
