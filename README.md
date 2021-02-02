@@ -1,10 +1,10 @@
 # Lorenz Attractors
 
 ## Description
-This program creates a visual demonstration/animation of Lorenz systems.
-Start date: October 31, 2020
-Current version: 0.1.0
-Programming language(s):
+This program creates a visual demonstration/animation of Lorenz systems. <br>
+Start date: October 31, 2020 <br>
+Current version: 0.1.0 <br>
+#### Programming language(s):
 - Processing (Java)
 	- [Lorenz_Attractors.pde](Lorenz_Attractors.pde) - main program entrance sets up canvas and executes animation steps
 
