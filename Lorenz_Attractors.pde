@@ -1,5 +1,5 @@
-//started 10/31/2020
-//inspiration: https://www.youtube.com/watch?v=f0lkz2gSsIk&list=PLRqwX-V7Uu6ZiZxtDDRCi6uhfTH4FilpH&index=15
+// Jeffrey Andersen
+
 //a visual demonstration of Lorenz systems
 
 import peasy.*;
@@ -17,7 +17,7 @@ PeasyCam cam;
 
 void setup() {
   size(800, 800, P3D);
-  colorMode(HSB); //HSB = hue, saturation, brightness
+  colorMode(HSB); //HSB stands for hue, saturation, brightness
   cam = new PeasyCam(this, 500);
   noFill();
 }
