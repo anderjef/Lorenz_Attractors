@@ -1,4 +1,4 @@
-// Jeffrey Andersen
+//Jeffrey Andersen
 
 //a visual demonstration of Lorenz systems
 

@@ -1,4 +1,4 @@
-# Lorenz_Attractors
+# Lorenz Attractors
 ### Copyright
 (c) © 2021 Jeffrey Andersen
 
